@@ -35,12 +35,6 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# Tailwind CSS
-tailwind.config.js
-tailwind.config.ts
-
-# TypeScript
-tsconfig.tsbuildinfo
 
 # Optional npm cache
 .npm/
